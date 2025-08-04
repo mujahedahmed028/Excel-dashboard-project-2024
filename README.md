@@ -44,7 +44,7 @@ Data Visualization
 Finally, the dashboard was created by inserting and customizing the pivot charts of corresponding pivot table. For user friendly and interactive experience 3 "Slicers" were added.
 
 Below is a snippet of the final dashboard in Excel.
-
+![image alt](https://github.com/mujahedahmed028/Excel-dashboard-project-2024/blob/e77b17ebd986f4ed9fa17f237f764a9ca1847d28/Screenshot%202025-08-04%20103830.png)
 
 
 Insights
